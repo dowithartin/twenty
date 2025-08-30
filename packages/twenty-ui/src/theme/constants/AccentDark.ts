@@ -1,10 +1,10 @@
 import { COLOR } from './Colors';
 
 export const ACCENT_DARK = {
-  primary: COLOR.blueAccent75,
-  secondary: COLOR.blueAccent80,
-  tertiary: COLOR.blueAccent85,
-  quaternary: COLOR.blueAccent90,
-  accent3570: COLOR.blueAccent70,
-  accent4060: COLOR.blueAccent60,
+  primary: COLOR.purple60,
+  secondary: COLOR.purple70,
+  tertiary: COLOR.purple80,
+  quaternary: COLOR.purple80,
+  accent3570: COLOR.purple50,
+  accent4060: COLOR.purple40,
 };
